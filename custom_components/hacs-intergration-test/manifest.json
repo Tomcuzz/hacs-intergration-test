@@ -1,18 +1,13 @@
 {
   "domain": "hacs_intergration_test",
   "name": "HACS Intergration Test",
-  "after_dependencies": [],
   "codeowners": [
     "@tomcuzz"
   ],
-  "config_flow": false,
   "dependencies": [],
   "documentation": "https://github.com/Tomcuzz/hacs-intergration-test",
-  "homekit": {},
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/Tomcuzz/hacs-intergration-test/issues",
   "requirements": [],
-  "ssdp": [],
-  "version": "0.0.1",
-  "zeroconf": []
+  "version": "0.0.1"
 }
